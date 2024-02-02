@@ -1,2 +1,2 @@
-- Still learning :)
+Still learning
 
